@@ -1,0 +1,409 @@
+Name: A1 Bakery
+Name: A4 Bond Paper
+Name: ABCD Events
+Name: Additonal Charge
+Name: Airtel
+Name: Ajji Syrup Stall
+Name: AKA Bakery
+Name: Ammayappan Juice Centre
+Name: Amul - Ariyalur
+Name: Ananda Stores
+Name: ARCHANAS ANNALAKSHMI RESTARUNT
+Name: ARS Catering
+Name: Auditor
+Name: Auditor Fees
+Name: Axis Bank
+Name: B.Karunanidhi
+Name: Bag Purchase
+Name: Bank Fee and Charges
+Name: BC Agencies
+Name: Best Buy Super Market
+Name: Bishop Heber College
+Name: Bismi Cake Corner
+Name: Box - Frieght
+Name: Box File
+Name: Box Purchase
+Name: BSNL
+Name: cool House
+Name: customer
+Name: customer - Arun
+Name: customer - Ganesan
+Name: customer - Kattur
+Name: customer - Renganathan
+Name: customer - Tamizh
+Name: customer - Vignesh school
+Name: C2FODiscount + Rate Difference
+Name: Canteen Cauvery College
+Name: Cash
+Name: Cash Sale
+Name: Catering Orders
+Name: Cess @ 12.0%
+Name: Cess @ 60.0%
+Name: CGST
+Name: CGST @ 0.05%
+Name: CGST @ 0.125%
+Name: CGST @ 0.75%
+Name: CGST @ 1.5%
+Name: CGST @ 14.0%
+Name: CGST @ 2.5%
+Name: CGST @ 3.0%
+Name: CGST @ 6%
+Name: CGST @ 6.0%
+Name: CGST @ 6.9%
+Name: CGST @ 7.0%
+Name: CGST @ 9.0%
+Name: CGST @9%
+Name: Chef House
+Name: Cheque dishnoured charges
+Name: Chitty Traders
+Name: Chiyazhi Pazhamudhir Solai
+Name: Classic Foods
+Name: Cleaning - Outside
+Name: Cleaning - Owner
+Name: Coffee
+Name: Cool spot
+Name: CR Bakery
+Name: Cup & Spoon
+Name: Customer- Baskar
+Name: Customer- Pari
+Name: Customer - Arul
+Name: Customer - Bilal
+Name: Customer - Chelladurai
+Name: Customer - Harikrupa
+Name: Customer - Krishnakumar
+Name: Customer - LLN
+Name: Customer - Madhavan
+Name: Customer - Mohan Ramasamy
+Name: Customer - Musiri
+Name: Customer - Saravanan
+Name: Customer - Senthil
+Name: Customer - Siva
+Name: Customer - Vignesh
+Name: Customer - Vishnu
+Name: Customer -Prabhakar
+Name: Daily Fresh
+Name: Delivery Charges
+Name: Diesel
+Name: Discount
+Name: Discount on Item
+Name: Diwakar
+Name: DMart _ TDS
+Name: Dr.B.K. Reth
+Name: Electrical Fittings
+Name: Electricity Charges
+Name: Eletrical Work - Labour
+Name: Elite Paradise
+Name: Employees Incentive & Petrol Allowance
+Name: Employees Salaries & Advances
+Name: EMI SBI
+Name: Epson Black Ink
+Name: Ezhil Maligai
+Name: Fastag
+Name: Freezer
+Name: Freezer Purchase
+Name: Freezer Rent
+Name: Friends Catering
+Name: Friends Maligai
+Name: Frozen Feelings
+Name: FSSAI
+Name: Fun Nest
+Name: Ganapathi Catering
+Name: Ganesh Catering
+Name: GCMMF
+Name: Geetha Partner
+Name: Godown & Stock Insurance
+Name: Godown Rent
+Name: Gokul Catering
+Name: Golden Delights
+Name: Good Luck Rice Flour & Oil Dhal Mill
+Name: Gopaldass Automobiles
+Name: Green Sheet
+Name: GR Raghavan Catering
+Name: GS Foods
+Name: GSN Traders
+Name: GST Purchase
+Name: GST Purchase @ 18%
+Name: GST Purchase @ 5%
+Name: GST Purchase @12%
+Name: GST Sales
+Name: GST Sales @ 12%
+Name: GST Sales @18%
+Name: GST Sales @5%
+Name: Gulf Magic
+Name: Guru Catering
+Name: Guru Darshan Mobiles
+Name: Guru Hotel
+Name: hari
+Name: Heber Canteen
+Name: Hotel Amudhu
+Name: Hotel Anjappar
+Name: Hotel Gowri Parvathi Bhavan
+Name: Hotel Padmavathy
+Name: HP Agency
+Name: Ice N Glaze
+Name: IGST
+Name: IGST @ 0.1%
+Name: IGST @ 0.25%
+Name: IGST @ 1.5%
+Name: IGST @ 12.0%
+Name: IGST @ 13.8%
+Name: IGST @ 14.0%
+Name: IGST @ 18.0%
+Name: IGST @ 28.0%
+Name: IGST @ 3.0%
+Name: IGST @ 5.0%
+Name: IGST @ 6.0%
+Name: Insurance
+Name: Interest SBICC
+Name: Internet
+Name: Janani
+Name: Janu`s Natural Club
+Name: Jerinz Treat
+Name: Jeyam Sweets and Bakery
+Name: JNC Enterprises
+Name: Juice - Ramesh
+Name: Juice & Spice
+Name: Juice World
+Name: karthik
+Name: kavenders
+Name: K.K. Nagar - Udayan Pati
+Name: K.S.Maligai
+Name: K.Vignesh
+Name: K.Vignesh SI
+Name: Kalaimagal Fancy Stores
+Name: Kamatchi Super Market
+Name: Kandhasamy Rice Store
+Name: Kauvery Hospital
+Name: Kaveri Greens
+Name: Keventers
+Name: KG Ramya
+Name: KG Sales
+Name: KIngs Bake
+Name: KJ Harshini Catering
+Name: Knife
+Name: Krish Cakes
+Name: Krishna Juice
+Name: Krishna Sweets
+Name: L.Lakshmi Narasimman
+Name: L.Senthil Kumar
+Name: L.Senthil Kumar (Adv)
+Name: L.Senthil Kumar OT
+Name: L.Senthil Kumar SI
+Name: L4 Bakery & Hot Chips
+Name: Lakshmanth
+Name: Lakshmi Stores
+Name: Lakshminarasimman
+Name: Lassi Bay - Tennur
+Name: Lassibay - Melaputhur
+Name: Lava cakes
+Name: LIYAN HOTEL
+Name: melita Foods
+Name: M.K
+Name: M.K.M Chat Corner
+Name: M.Mahalakshmi
+Name: M.Mahalakshmi SI
+Name: M.S.K cooldrinks
+Name: M.Saravanan
+Name: Mahan Catering
+Name: Maharaja Milk Store
+Name: Maharaja Milk Store - Freezer
+Name: Maheswari Cooldrinks
+Name: Malolan Catering
+Name: Mani Beedas & Icecream
+Name: Manikandan
+Name: Maruthi Hospital Canteen
+Name: Meat & Eat
+Name: Mecca Grills Restaurant
+Name: Meenakshi Medical Stores
+Name: Mega Star Theatre
+Name: Melting Point
+Name: Milk Point
+Name: Minor cooldrinks
+Name: Miscellaneous
+Name: Modern
+Name: Mr.Milkshake
+Name: Mr.Protein
+Name: Mr.Sivam
+Name: Mugil Fine Arts Academy
+Name: Muthamizh Snacks
+Name: MURALI STORE
+Name: MUTHUKUMAR
+Name: Nagaraj - Melachinthamani
+Name: Nahul traders
+Name: Nalabagam Caterers
+Name: Nandhini
+Name: Nature Super Market
+Name: Neethi Arasan
+Name: Nellai Groups
+Name: New Lakshmi Stores
+Name: New Malliga Stores
+Name: New Saravana Super Store
+Name: NFS Foods
+Name: Niche Catering
+Name: Nithiyanantha
+Name: Nithyakalyan Catering Services
+Name: Noor Sweets & Bakery
+Name: Oviyan Milk Shop
+Name: Oviyan Milk Shop - Freezer
+Name: Painting
+Name: Parasakthi Stores
+Name: Parthiban
+Name: Parvathi Chaat
+Name: Pasumai Pazhamudhir Solai
+Name: Petrol
+Name: Pizza House
+Name: Plastic Container - Aswins
+Name: Plum Caffe
+Name: Pooja Expenses
+Name: Princess Biriyani
+Name: Printing & Stationary
+Name: Prithivika Stationery
+Name: Profit & Loss A/c
+Name: Punjabi Dhabha
+Name: Raghavendra
+Name: Raj Barath
+Name: Raja Fruits & Snacks
+Name: Raja Ganapathi
+Name: Raja Store
+Name: Raksha Agencies
+Name: Ranjith Enterprises
+Name: Ranjithkumar
+Name: RAMESWAR VETIVER Eco Handicraft & RV Aroma
+Name: Renganathan
+Name: Renuka Stores
+Name: Repair & Maintanance
+Name: Revathy Agency
+Name: Rithesh
+Name: RNM Events
+Name: Round off
+Name: Royal Bakery
+Name: RR Beda
+Name: RSR Wedding Events
+Name: signature
+Name: subiksham-plr
+Name: S.S.Theeran
+Name: S.Tamizh Azhagan
+Name: S.Tamizh Azhagan (Adv)
+Name: S.Tamizh Azhagan OT
+Name: S.Tamizh Azhagan SI
+Name: Sai Varahi Juice Shop
+Name: Saitjee Chaats
+Name: Sakthis Kitchen Pvt Ltd
+Name: Saleem - Ajji
+Name: Salesman
+Name: Santhosh Catering
+Name: Saro Catering
+Name: Sasikala.s
+Name: Sastra Annadhanam
+Name: Savithri Catering
+Name: SBI CC
+Name: SBI Current Account CA
+Name: SBI Term Loan
+Name: Scooping Persons
+Name: SEM Traders
+Name: SGST
+Name: SGST @ 0.05%
+Name: SGST @ 0.125%
+Name: SGST @ 0.75%
+Name: SGST @ 1.5%
+Name: SGST @ 14.0%
+Name: SGST @ 2.5%
+Name: SGST @ 3.0%
+Name: SGST @ 6.0%
+Name: SGST @ 6.9%
+Name: SGST @ 7.0%
+Name: SGST @ 9.0%
+Name: SGST @6%
+Name: SGST @9%
+Name: Shameen General Store
+Name: Shanmuga College Canteen
+Name: Shanu Health and chill Dairy Products
+Name: Shree MEG Agency
+Name: Shreem Akilandeswari Fruits
+Name: Shri Sabari Cafe
+Name: Sip and Bite
+Name: Siva Anbu Store
+Name: Siva Traders
+Name: Sivam Agencies
+Name: SKN Maligai
+Name: SM Mydeen Stores
+Name: Sree Lakshmi Traders
+Name: Sri Agencies
+Name: Sri Andavar Traders
+Name: Sri Angalamman Maligai Stores
+Name: Sri Durga Stores
+Name: Sri Hari Sweets
+Name: Sri Krishna
+Name: Sri Krishna Store
+Name: Sri Krishnaparamathma
+Name: Sri Kuberan Shopping Mart
+Name: Sri Murugan Maligai
+Name: Sri Neevi Cooldrinks
+Name: Sri Nila Cool Drinks
+Name: Sri Renga Fancy Stores
+Name: Sri Sai Bhavan
+Name: Sri Selva Vinayaga Agencies
+Name: Sri Siddhi Vinayagar Maligai
+Name: Sri Trayee Vidya Gurukulam
+Name: Sri Vijayam Mart
+Name: Srv matriculation school
+Name: SRRC IIMT (Trichy)
+Name: SRV Matriculation Higher Sec. School
+Name: St. Antony's Agencies
+Name: St. Antony s Agencies
+Name: Stock Unloading
+Name: Subhamangala Catering
+Name: Sundae Icecream
+Name: Suresh RTO
+Name: Surya Sip & Bite
+Name: Swastika Enterprises
+Name: Syed Aadham
+Name: Tamizh Petrol
+Name: Tata Ace - Air
+Name: Tata Ace - Lalgudi
+Name: Tata Ace Charges
+Name: Tata Ace Painting
+Name: Tata Ace TN48BD7038 (EMI)
+Name: Tata Motors
+Name: TCS
+Name: TDS - PSM Salary
+Name: Tea
+Name: Tea Kadai Bench
+Name: Tea Time
+Name: Teju Super Market
+Name: Telephone Internet Expenses
+Name: Temple View
+Name: The Kitchen
+Name: Theatre Canteen BHEL
+Name: Thunder Soda
+Name: THUKILS GARMENTS
+Name: Tire Mat
+Name: TN 45 AK 8381
+Name: TN 48 BD 7038
+Name: TN48 BC0138
+Name: Transport
+Name: Transport & Labour
+Name: Transportation & Travel Expenses
+Name: TVS - Mirror
+Name: Upperroom
+Name: V.K.N Milk Centre
+Name: V.K.S Milk Depo
+Name: V.Zaheer Hussain
+Name: V.Zaheer Hussain SI
+Name: Vageesha Vidyalaya
+Name: Vasan Medical Store
+Name: Vasantham Juice Spot - Andal Street
+Name: Vasantham Juice Spot - Thillainagar
+Name: Vasanthan Juice Spot - Puthur
+Name: Velans Coffee Express
+Name: Vetrivel Medical
+Name: Vignesh House Keeping
+Name: Vignesh OT
+Name: Vignesh Saha
+Name: Vignesh( Adv)
+Name: Vikram
+Name: waves resturant
+Name: Water Service
+Name: Watercan
+Name: Yoga Kalyana Mandapam
+Name: Zaheer Huassain OT
