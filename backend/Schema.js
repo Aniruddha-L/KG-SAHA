@@ -10,8 +10,7 @@ const UserSchema = mongoose.Schema({
         required:true
     },
     Email:{
-        type:String,
-        required:true
+        type:String
     },
     Phone:{
         type:Number,
@@ -22,8 +21,7 @@ const UserSchema = mongoose.Schema({
         required:true
     },
     GST:{
-        type:String,
-        required:true
+        type:String
     }
 })
 
