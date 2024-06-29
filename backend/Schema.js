@@ -62,7 +62,7 @@ const InvoiceSchema = mongoose.Schema({
         required:true
     },
     pdt_id:{
-        type:Number,
+        type:Array,
         required:true
     },
     quantity:{
