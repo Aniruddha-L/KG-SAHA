@@ -79,6 +79,18 @@ const InvoiceSchema = mongoose.Schema({
     }
 })
 
+const Log = mongoose.Schema({
+    u_id:{
+        type:Number,
+        required:true
+    },
+    time:{
+        type:Date,
+        default:Date.now()
+    }
+})
+
 export const UserModel = mongoose.model('User', UserSchema)
 export const InvoiceModel = mongoose.model('Invoice', InvoiceSchema)
 export const ProductModel = mongoose.model('Product', ProductSchema)
+export const LogModel = mongoose.model('Log', ProductSchema)
