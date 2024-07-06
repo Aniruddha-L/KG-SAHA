@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Mono&family=Slackside+One&display=swap');
+
+.headbar{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    height: fit-content;
+    gap: 40rem;
+    margin-left: 2rem;
+}
+.logo{
+    align-content: center;
+}
+.headbar>ul{
+    list-style: none;
+    display: inline-flex;
+    gap: 6rem;
+    align-items: center;
+    flex-basis: auto;
+}
+.headbar>section>a{
+    text-decoration: none;
+    color: black;
+    font-family: "Nova Mono", monospace;
+    font-weight: bold;
+    font-size: large;
+}
+.headbar>ul>li>div>a{
+    text-decoration: none;
+    color: black;
+    font-family: "Nova Mono", monospace;
+    font-weight: bold;
+    font-size: large;
+}
+
+.user_profile{
+    width: 2rem;
+    height: 2rem;
+    background-image: url('../Asstes/user_profile.png');
+    background-repeat: no-repeat;
+    background-size: 2rem;
+    transition-duration: 0.5s;
+}
+
+.home, .pdts, .abt, .contact{
+    padding: 0.5rem;
+    background-color: rgb(207, 207, 207);
+    transition-duration: 0.5s;
+}
+
+.home:hover, .pdts:hover, .abt:hover, .contact:hover, .user_profile:hover{
+    transform: translate(0.1rem, 0.1rem);
+}
+
+/* END OF HEADBAR.CSS */
