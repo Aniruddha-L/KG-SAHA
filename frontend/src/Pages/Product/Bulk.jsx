@@ -1,7 +1,7 @@
-import React from 'react'
-import Menu from '../../Components/Menu'
+import React from "react";
+import Menu from "../../Components/Menu";
 
-function Bulk (){
+function Bulk() {
   return (
     <section>
       <Menu></Menu>
@@ -90,7 +90,7 @@ function Bulk (){
         <li></li>
       </ul>
     </section>
-  )
+  );
 }
 
-export default Bulk
+export default Bulk;

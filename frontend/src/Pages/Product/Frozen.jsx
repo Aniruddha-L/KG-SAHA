@@ -1,7 +1,7 @@
-import React from 'react'
-import Menu from '../../Components/Menu'
+import React from "react";
+import Menu from "../../Components/Menu";
 
-function Frozen(){
+function Frozen() {
   return (
     <section>
       <Menu></Menu>
@@ -9,7 +9,7 @@ function Frozen(){
         <li></li>
       </ul>
     </section>
-  )
+  );
 }
 
-export default Frozen
+export default Frozen;

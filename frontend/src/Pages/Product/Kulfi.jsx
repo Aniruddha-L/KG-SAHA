@@ -1,7 +1,7 @@
-import React from 'react'
-import Menu from '../../Components/Menu'
+import React from "react";
+import Menu from "../../Components/Menu";
 
-function Kulfi(){
+function Kulfi() {
   return (
     <div>
       <Menu></Menu>
@@ -9,7 +9,7 @@ function Kulfi(){
         <li></li>
       </ul>
     </div>
-  )
+  );
 }
 
-export default Kulfi
+export default Kulfi;

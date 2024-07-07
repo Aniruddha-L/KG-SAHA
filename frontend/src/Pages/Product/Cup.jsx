@@ -1,6 +1,6 @@
 import Item from "../../Components/Item";
 import Menu from "../../Components/Menu";
-import '../../Static/Style/cup.css'
+import "../../Static/Style/cup.css";
 
 function Cup() {
   document.title = "Order - Cup 100ml";
@@ -65,12 +65,7 @@ function Cup() {
           ></Item>
         </li>
         <li>
-          <Item
-            name={"Rajbhoj"}
-            size={"100ml"}
-            price={"20"}
-            image={8}
-          ></Item>
+          <Item name={"Rajbhoj"} size={"100ml"} price={"20"} image={8}></Item>
         </li>
         <li>
           <Item
@@ -96,8 +91,8 @@ function Cup() {
             image={10}
           ></Item>
         </li>
-      </ul> 
-    </div>  
+      </ul>
+    </div>
   );
 }
 

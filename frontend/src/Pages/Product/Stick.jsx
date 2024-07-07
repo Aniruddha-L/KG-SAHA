@@ -1,7 +1,7 @@
-import React from 'react'
-import Menu from '../../Components/Menu'
+import React from "react";
+import Menu from "../../Components/Menu";
 
-function Stick(){
+function Stick() {
   return (
     <section>
       <Menu></Menu>
@@ -9,7 +9,7 @@ function Stick(){
         <li></li>
       </ul>
     </section>
-  )
+  );
 }
 
-export default Stick
+export default Stick;
