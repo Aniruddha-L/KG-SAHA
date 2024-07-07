@@ -1,0 +1,15 @@
+.combo{
+    display: flex;
+    flex-direction: row;
+}
+.combo_dislay{
+    align-items: center;
+    margin-top: 5rem;
+    margin-left: 5rem;
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    gap: 4rem;
+}
+.combo_dislay{
+    list-style: none;
+}

@@ -1,6 +1,6 @@
 import Item from "../../Components/Item";
 import Menu from "../../Components/Menu";
-import '../../Static/Style/100.css'
+import '../../Static/Style/cup.css'
 
 function Cup() {
   document.title = "Order - Cup 100ml";
@@ -18,7 +18,7 @@ function Cup() {
         </li>
         <li>
           <Item
-            name={"Afghan Dry Fruit"}
+            name={"Alphonso Mango"}
             size={"100ml"}
             price={"20"}
             image={2}
@@ -26,7 +26,7 @@ function Cup() {
         </li>
         <li>
           <Item
-            name={"Afghan Dry Fruit"}
+            name={"American Nuts"}
             size={"100ml"}
             price={"20"}
             image={3}
@@ -34,7 +34,7 @@ function Cup() {
         </li>
         <li>
           <Item
-            name={"Afghan Dry Fruit"}
+            name={"Butterscotch Bliss"}
             size={"100ml"}
             price={"20"}
             image={4}
@@ -42,7 +42,7 @@ function Cup() {
         </li>
         <li>
           <Item
-            name={"Afghan Dry Fruit"}
+            name={"Choco Chips"}
             size={"100ml"}
             price={"20"}
             image={5}
@@ -50,7 +50,7 @@ function Cup() {
         </li>
         <li>
           <Item
-            name={"Afghan Dry Fruit"}
+            name={"Kaju Draksh"}
             size={"100ml"}
             price={"20"}
             image={6}
@@ -58,7 +58,7 @@ function Cup() {
         </li>
         <li>
           <Item
-            name={"Afghan Dry Fruit"}
+            name={"Kesar Pista Royale"}
             size={"100ml"}
             price={"20"}
             image={7}
@@ -66,7 +66,7 @@ function Cup() {
         </li>
         <li>
           <Item
-            name={"Afghan Dry Fruit"}
+            name={"Rajbhoj"}
             size={"100ml"}
             price={"20"}
             image={8}
@@ -74,14 +74,30 @@ function Cup() {
         </li>
         <li>
           <Item
-            name={"Afghan Dry Fruit"}
+            name={"Vanilla Royale"}
             size={"100ml"}
             price={"20"}
             image={9}
           ></Item>
         </li>
-      </ul>
-    </div>
+        <li>
+          <Item
+            name={"Vanilla Royale"}
+            size={"65ml"}
+            price={"15"}
+            image={9}
+          ></Item>
+        </li>
+        <li>
+          <Item
+            name={"Strawberry"}
+            size={"65ml"}
+            price={"15"}
+            image={10}
+          ></Item>
+        </li>
+      </ul> 
+    </div>  
   );
 }
 

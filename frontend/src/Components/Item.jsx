@@ -8,6 +8,19 @@ import kd from '../Static/Asstes/100 ml/Kaju Draksh.png'
 import kpr from '../Static/Asstes/100 ml/Kesar Pista Royale.png'
 import raj from '../Static/Asstes/100 ml/Rajbhoj.png'
 import vr from '../Static/Asstes/100 ml/Vanilla Royale.png'
+import cup_straw from '../Static/Asstes/65 ml/Strawberry.png'
+import combo_adf from '../Static/Asstes/Combo/Afghan dry fruit.png'
+import combo_mango from '../Static/Asstes/Combo/Alphonso mango.png'
+import combo_bc from '../Static/Asstes/Combo/Black current.png'
+import combo_bs from '../Static/Asstes/Combo/Bs.png'
+import combo_cc from '../Static/Asstes/Combo/Choco Chips.png'
+import combo_ca from '../Static/Asstes/Combo/Creamy Almond.png'
+import combo_kpr from '../Static/Asstes/Combo/Kesar Pista Royale.png'
+import combo_raj from '../Static/Asstes/Combo/Rajbhoj.png'
+import combo_sscb from  '../Static/Asstes/Combo/sscb.png'
+import combo_straw from "../Static/Asstes/Combo/Strawberry.png"
+import combo_tf from  "../Static/Asstes/Combo/Tutti Frutti.png"
+import combo_van from  "../Static/Asstes/Combo/Vanilla.png"
 
 function Item({name,size,  price, image}) {
   var source;
@@ -38,6 +51,45 @@ function Item({name,size,  price, image}) {
       break
     case 9:
       source = vr
+      break
+    case 10:
+      source = cup_straw
+      break
+    case 11:
+      source = combo_adf
+      break
+    case 12:
+      source = combo_bc
+      break
+    case 13:
+      source = combo_bs
+      break
+    case 14:
+      source = combo_ca
+      break
+    case 15:
+      source = combo_cc
+      break
+    case 16:
+      source = combo_kpr
+      break
+    case 17:
+      source = combo_mango
+      break
+    case 18:
+      source = combo_raj
+      break
+    case 19:
+      source = combo_sscb
+      break
+    case 20:
+      source = combo_straw
+      break
+    case 21:
+      source = combo_tf
+      break
+    case 22:
+      source = combo_van
       break
   }
   
