@@ -1,0 +1,15 @@
+.Jumbo{
+    display: flex;
+    flex-direction: row;
+}
+.jumbo_display{
+    align-items: center;
+    margin-top: 5rem;
+    margin-left: 5rem;
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    gap: 4rem;
+}
+.jumbo_display>li{
+    list-style: none;
+}
