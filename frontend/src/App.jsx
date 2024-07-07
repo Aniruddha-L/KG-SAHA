@@ -1,15 +1,19 @@
-import {createBrowserRouter, Router} from 'react-router-dom'
-import Products from './Pages/Products'
-import Item from './Components/Item'
-const Route = createBrowserRouter(
-    {
-        path:'/order',
-        element:<Products />
-    }
-)
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import Cup from "./Pages/Product/Cup 100";
+import Homepage from "./Pages/Homepage";
+const Route = createBrowserRouter([
+  {
+    path: "/order/cup",
+    element: <Cup />,
+  },
+  {
+    path:'/',
+    element:<Homepage />
+  }
+]);
 
 function App() {
-    return <Router route = {Route} />
+  return <RouterProvider router={Route} />;
 }
 
-export default App
+export default App;

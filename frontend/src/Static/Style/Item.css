@@ -10,9 +10,11 @@
 
 .pdt_img{
     margin-top: 0.4rem;
+    background-color: white;
+}
+.pdt_img>img{
     width: 14.375rem;
     height: 9.4375rem;
-    background-color: white;
 }
 .item_display>.desc{
     /* border: 2px solid red; */
