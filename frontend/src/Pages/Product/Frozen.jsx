@@ -1,10 +1,14 @@
 import React from 'react'
+import Menu from '../../Components/Menu'
 
-const Frozen = () => {
+function Frozen(){
   return (
-    <div>
-      
-    </div>
+    <section>
+      <Menu></Menu>
+      <ul>
+        <li></li>
+      </ul>
+    </section>
   )
 }
 

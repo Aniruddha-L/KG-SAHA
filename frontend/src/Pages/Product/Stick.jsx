@@ -1,10 +1,14 @@
 import React from 'react'
+import Menu from '../../Components/Menu'
 
-const Stick = () => {
+function Stick(){
   return (
-    <div>
-      
-    </div>
+    <section>
+      <Menu></Menu>
+      <ul>
+        <li></li>
+      </ul>
+    </section>
   )
 }
 
