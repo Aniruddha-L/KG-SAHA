@@ -33,6 +33,22 @@ import jumbo_ka from '../Static/Asstes/Jumbo Cup/King Alphonso.png'
 import jumbo_pn from '../Static/Asstes/Jumbo Cup/Pan-Nawabi.png'
 import jumbo_sh from '../Static/Asstes/Jumbo Cup/Shalimar.png'
 
+import cone_bc from '../Static/Asstes/Tricone/Black Currant.png'
+import cone_b from '../Static/Asstes/Tricone/Butterscotch.png'
+import cone_cc from '../Static/Asstes/Tricone/Choco Crunch.png'
+import cone_cv from '../Static/Asstes/Tricone/Choco Vanilla.png'
+import cone_ccd from '../Static/Asstes/Tricone/Cookie Crunch Delight.png'
+import cone_pd from '../Static/Asstes/Tricone/Pista Badam.png'
+import cone_tio from '../Static/Asstes/Tricone/Two in One.png'
+
+import tub_cc from '../Static/Asstes/Tub/Choco Chips.png'
+import tub_cb from '../Static/Asstes/Tub/Chocolate Brownie.png'
+import tub_fnnt from '../Static/Asstes/Tub/Fruit N Nut Fantasy.png'
+import tub_ka from '../Static/Asstes/Tub/King Alphonso.png'
+import tub_mdf from '../Static/Asstes/Tub/Moroccan Dry Fruit.png'
+import tub_raj from '../Static/Asstes/Tub/Rajbhog.png'
+import tub_ra from '../Static/Asstes/Tub/Roasted Almond.png'
+
 function Item({name,size,  price, image}) {
   var source;
   switch(image){
@@ -128,6 +144,48 @@ function Item({name,size,  price, image}) {
       break
     case 31:
       source = jumbo_sh
+      break
+    case 32:
+      source = cone_b
+      break
+    case 33:
+      source = cone_bc
+      break
+    case 34:
+      source = cone_cc
+      break
+    case 35:
+      source = cone_ccd
+      break
+    case 36:
+      source = cone_cv
+      break
+    case 37:
+      source = cone_pd
+      break
+    case 38:
+      source = cone_tio
+      break
+    case 39:
+      source = tub_cb
+      break
+    case 40:
+      source = tub_cc
+      break
+    case 41:
+      source = tub_fnnt
+      break
+    case 42:
+      source = tub_ka
+      break
+    case 43:
+      source = tub_mdf
+      break
+    case 44:
+      source = tub_ra
+      break
+    case 45:
+      source = tub_raj
       break
   }
   

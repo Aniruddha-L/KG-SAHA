@@ -1,0 +1,12 @@
+.tub{
+    display: flex;
+}
+
+.tub_dispaly{
+    margin-top: 5rem;
+    margin-left: 5rem;
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    gap: 5rem;
+}
+.tub_dispaly>li{list-style: none;}

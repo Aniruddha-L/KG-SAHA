@@ -8,11 +8,16 @@ import Frozen from './Pages/Product/Frozen'
 import Jumbo from './Pages/Product/Jumbo'
 import Kulfi from './Pages/Product/Kulfi'
 import Stick from './Pages/Product/Stick'
+import Tub from "./Pages/Product/Tub";
 
 const Route = createBrowserRouter([
   {
     path: "/order/cup",
     element: <Cup />,
+  },
+  {
+    path: "/order/tub",
+    element: <Tub />,
   },
   {
     path:'/order/combo',
@@ -40,6 +45,10 @@ const Route = createBrowserRouter([
   },
   {
     path:'/order/stick',
+    element:<Stick />
+  },
+  {
+    path:'/order/tub',
     element:<Stick />
   },
   {
