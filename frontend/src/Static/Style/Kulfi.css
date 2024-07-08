@@ -1,0 +1,16 @@
+.kulfi{
+    display: flex;
+    flex-direction: row;
+}
+
+.kulfi-display{
+    align-items: center;
+    margin-top: 5rem;
+    margin-left: 5rem;
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    gap: 4rem;
+}
+.kulfi-display>li{
+    list-style: none;
+}

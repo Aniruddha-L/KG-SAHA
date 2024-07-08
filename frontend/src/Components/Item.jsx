@@ -49,6 +49,20 @@ import tub_mdf from '../Static/Asstes/Tub/Moroccan Dry Fruit.png'
 import tub_raj from '../Static/Asstes/Tub/Rajbhog.png'
 import tub_ra from '../Static/Asstes/Tub/Roasted Almond.png'
 
+import kul_bad from '../Static/Asstes/Kulfi/badshahi.png'
+import kul_bom from '../Static/Asstes/Kulfi/bombay.png'
+import kul_ka from '../Static/Asstes/Kulfi/kaju-malai.png'
+import kul_kas from '../Static/Asstes/Kulfi/kashmiri.png'
+import kul_ma from '../Static/Asstes/Kulfi/mawa-malai.png'
+import kul_pm from '../Static/Asstes/Kulfi/pista-malai.png'
+import kul_p from '../Static/Asstes/Kulfi/punjabi.png'
+import kul_r from '../Static/Asstes/Kulfi/rabdi.png'
+import kul_ra from '../Static/Asstes/Kulfi/rajasthani.png'
+import kul_rb from '../Static/Asstes/Kulfi/rajbhoj.png'
+import kul_raw from '../Static/Asstes/Kulfi/rajwadhi.png'
+import kul_ro from '../Static/Asstes/Kulfi/rosogolla.png'
+import kul_sb from '../Static/Asstes/Kulfi/shahi-badam.png'
+
 function Item({name,size,  price, image}) {
   var source;
   switch(image){
@@ -187,8 +201,46 @@ function Item({name,size,  price, image}) {
     case 45:
       source = tub_raj
       break
+    case 46:
+      source = kul_bad
+      break
+    case 47:
+      source = kul_bom
+      break
+    case 48:
+      source = kul_ka
+      break
+    case 49:
+      source = kul_kas
+      break
+    case 50:
+      source = kul_ma
+      break
+    case 51:
+      source = kul_p
+      break
+    case 52:
+      source = kul_pm
+      break
+    case 53:
+      source = kul_r
+      break
+    case 54:
+      source = kul_ra
+      break
+    case 55:
+      source = kul_raw
+      break
+    case 56:
+      source = kul_rb
+      break
+    case 57:
+      source = kul_ro
+      break
+    case 58:
+      source = kul_sb
+      break
   }
-  
   return (
     <div className="item_display">
       <div className="pdt_img"><img src={source} alt="Image missing" /></div>
